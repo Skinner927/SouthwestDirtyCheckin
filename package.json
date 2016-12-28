@@ -1,0 +1,11 @@
+{
+  "name": "SouthwestDirtyCheckin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "skinner927",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.9.0",
+    "optimist": "^0.6.1"
+  }
+}
