@@ -7,3 +7,6 @@ export NVM_DIR="/home/$(whoami)/.nvm";
 
 echo $(date "+%b/%d/%y %H:%M:%S")
 xvfb-run --server-args="-screen 0 1024x768x24" node index.js "$@"
+echo $(date "+%b/%d/%y %H:%M:%S")
+
+echo "DONE"
